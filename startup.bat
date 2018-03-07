@@ -28,6 +28,9 @@ start evernote.exe
 cd "C:\Program Files\ConEmu"
 start ConEmu64.exe
 
+cd "C:\Program Files\Oracle\VirtualBox"
+start VirtualBox.exe
+
 )
 
 exit
